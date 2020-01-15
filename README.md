@@ -1,6 +1,6 @@
 # Performance Profiling Example Traces
 
-These traces accompany the NAG [Webinar]() and [Blog
+These traces accompany the NAG [Webinar](https://www.youtube.com/watch?v=t7yBoq6183A) and [Blog
 Series](https://www.nag.co.uk/content/application-performance-profiling-part-1-what-profile) on
 performance profiling.
 
